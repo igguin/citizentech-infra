@@ -1,0 +1,16 @@
+[Unit]
+Description=Monitoramento CitizenTech - CPU RAM e Disco
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/home/citizenadmin/citizentech-infra
+ExecStart=/bin/bash -c 'while true; do /home/citizenadmin/citizentech-infra/scripts/monitorar.sh || exit 1; sleep 60; done'
+Restart=always
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

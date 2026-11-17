@@ -1,0 +1,18 @@
+nov 17 20:22:29 citizentech-server systemd[1]: Started citizentech-monitor.service - Monitoramento CitizenTech - CPU RAM e Disco.
+nov 17 20:22:30 citizentech-server bash[2012]: 2026-11-17 20:22:30 | CPU: 1% | RAM: 14% | DISCO: 5%
+nov 17 20:22:30 citizentech-server bash[2015]: 2026-11-17 20:22:30 | Monitoramento concluido.
+nov 17 20:23:31 citizentech-server bash[2032]: 2026-11-17 20:23:31 | CPU: 2% | RAM: 14% | DISCO: 5%
+nov 17 20:23:31 citizentech-server bash[2035]: 2026-11-17 20:23:31 | Monitoramento concluido.
+nov 17 20:24:32 citizentech-server bash[2061]: 2026-11-17 20:24:32 | CPU: 4% | RAM: 14% | DISCO: 5%
+nov 17 20:24:32 citizentech-server bash[2064]: 2026-11-17 20:24:32 | Monitoramento concluido.
+nov 17 20:25:26 citizentech-server systemd[1]: citizentech-monitor.service: Sent signal SIGKILL to main process 1997 (bash) on client request.
+nov 17 20:25:26 citizentech-server systemd[1]: citizentech-monitor.service: Main process exited, code=killed, status=9/KILL
+nov 17 20:25:26 citizentech-server systemd[1]: citizentech-monitor.service: Failed with result 'signal'.
+nov 17 20:25:31 citizentech-server systemd[1]: citizentech-monitor.service: Scheduled restart job, restart counter is at 1.
+nov 17 20:25:31 citizentech-server systemd[1]: Started citizentech-monitor.service - Monitoramento CitizenTech - CPU RAM e Disco.
+nov 17 20:25:32 citizentech-server bash[2087]: 2026-11-17 20:25:32 | CPU: 0% | RAM: 14% | DISCO: 5%
+nov 17 20:25:32 citizentech-server bash[2090]: 2026-11-17 20:25:32 | Monitoramento concluido.
+nov 17 20:26:33 citizentech-server bash[2112]: 2026-11-17 20:26:33 | CPU: 1% | RAM: 14% | DISCO: 5%
+nov 17 20:26:33 citizentech-server bash[2115]: 2026-11-17 20:26:33 | Monitoramento concluido.
+nov 17 20:27:34 citizentech-server bash[2148]: 2026-11-17 20:27:34 | CPU: 1% | RAM: 14% | DISCO: 5%
+nov 17 20:27:35 citizentech-server bash[2151]: 2026-11-17 20:27:35 | Monitoramento concluido.
