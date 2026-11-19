@@ -6,7 +6,10 @@ Projeto academico para automatizar a infraestrutura
 Linux responsavel por hospedar a aplicacao CitizenTech.
 
 ## Integrantes
-- Adicionar nomes dos integrantes
+
+- Victor Mattenhauer Lopes Capp - RM 555753
+- Jose Antonio Kretzer Rodriguez - RM 555523
+- Igor Brunelli Ralo - RM 555035
 
 ## Ambiente
 - Debian 13
