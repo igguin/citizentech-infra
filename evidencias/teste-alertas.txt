@@ -1,0 +1,5 @@
+2026-11-18 23:18:26 | CPU: 4% | RAM: 18% | DISCO: 14%
+2026-11-18 23:18:26 | ALERTA: CPU acima do limite!
+2026-11-18 23:18:26 | ALERTA: Memoria RAM acima do limite!
+2026-11-18 23:18:26 | ALERTA: Disco acima do limite!
+2026-11-18 23:18:26 | Monitoramento concluido.

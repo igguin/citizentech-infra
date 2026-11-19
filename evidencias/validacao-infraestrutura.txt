@@ -1,0 +1,25 @@
+=== VALIDACAO CITIZENTECH ===
+qua 18 nov 2026 23:16:50 -03
+
+=== HOSTNAME ===
+citizentech-server
+
+=== NGINX ===
+active
+enabled
+
+=== MONITORAMENTO ===
+active
+enabled
+
+=== SSH ===
+active
+
+=== APLICACAO WEB ===
+HTTP 200
+
+=== DNS ===
+2a04:4e42:200::644 debian.map.fastlydns.net deb.debian.org
+2a04:4e42::644  debian.map.fastlydns.net deb.debian.org
+2a04:4e42:400::644 debian.map.fastlydns.net deb.debian.org
+2a04:4e42:600::644 debian.map.fastlydns.net deb.debian.org

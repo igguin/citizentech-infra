@@ -1,0 +1,3 @@
+2026-11-18T23:19:43-03:00 | Iniciando provisionamento
+ERRO: codigo-fonte do SoloCerto nao encontrado.
+Codigo de saida: 1
